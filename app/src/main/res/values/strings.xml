@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Starship Inglish</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="nombre">Nombre</string>
+    <string name="correo">Correo</string>
+    <string name="app_ingles">App Inglés</string>
+    <string name="registrarse">Registrarse</string>
+    <string name="login">Ingresar</string>
+    <string name="clave">Clave</string>
+    <string name="claveRequerida">Confirmar Clave</string>
+    <string name="registro">Registro</string>
+    <string name="salir">LogOut</string>
+    <string name="edad">Edad</string>
+    <string name="todo">TODO</string>
+    <string name="title_activity_registro">Registro</string>
+    <string name="title_activity_introduccionuno">introduccionuno</string>
+</resources>
